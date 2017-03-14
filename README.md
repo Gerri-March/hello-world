@@ -1,2 +1,2 @@
 # hello-world
-The project to get started
+The project to help me to get started in Github
